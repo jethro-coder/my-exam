@@ -19,7 +19,7 @@ export default function index() {
       </div>
       <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
         <h2 class="title-font font-medium text-3xl text-gray-900">#3</h2>
-        <p class="leading-relaxed">Netflix's Top Anime</p>
+        <p class="leading-relaxed">Netflixs Top Anime</p>
       </div>
       <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
         <h2 class="title-font font-medium text-3xl text-gray-900">270 million volumes</h2>
